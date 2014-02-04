@@ -1,4 +1,0 @@
-C
-=
-
-Playing with C
