@@ -1,4 +1,6 @@
 # C
 Playing with C
 
-{{#embed:https://example.com/fluffy/kittens.md}}
+
+https://codepen.io/Coderesting/pen/yLyaJMz
+
